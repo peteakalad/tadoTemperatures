@@ -1,7 +1,7 @@
 tadoTemperatures
 ================
 
-Command line shell script to get current temperatures from Tado.<br/><br/>
+Command line shell script to get current temperatures from Tado.<br/>
 
 Requires jq to parse xml.<br/>
 Replace YOUR_USERNAME and YOUR_PASSWORD with your Tado credentials.<br/>
